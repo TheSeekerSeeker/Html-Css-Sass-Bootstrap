@@ -1,2 +1,2 @@
 README.md
-A Sass project with npm Sass installation
+A Sass project with npm parcel installation
